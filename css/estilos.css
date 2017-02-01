@@ -1,0 +1,115 @@
+.sticky_header {
+  width:100%;
+  position:fixed;
+}
+
+.educacionContinua_icono {
+  margin-left:5px;
+  font-size:20px;
+}
+
+h1 {
+  text-align:center;
+  margin-top:75px;
+}
+
+legend {
+  font-size:20px;
+}
+
+.floating_actionButton {
+  margin: -36px -45px;
+  text-align:right;
+}
+
+#labelNombre {
+  margin-bottom:20px;
+  margin-left:-5px;
+}
+
+#inputNombre {
+  text-transform: uppercase;
+}
+
+.divEntradaHoras {
+  margin-top:20px;
+}
+
+#inputEntrHra {
+  text-align: center;
+}
+
+.parrafoInputEntradaHra {
+  color:#C0C0C0;
+  font-style: italic;
+  font-size:10px;
+}
+
+.divEntradaMinutos {
+  margin-top:20px;
+}
+
+#inputEntrMin {
+  text-align:center;
+}
+
+.parrafoInputEntradaMins {
+  color:#C0C0C0;
+  font-style: italic;
+  font-size:10px;
+}
+
+.radioButtonsEntrada {
+  margin-top:23px;
+}
+
+.divSalidaHrs {
+  margin-top:20px;
+}
+
+#inputSaliHra {
+  text-align:center;
+}
+
+.parrafoSalidaHrs {
+  color:#C0C0C0;
+  font-style: italic;
+  font-size:10px;
+}
+
+.divSalidaMinutos {
+  margin-top:20px;
+}
+
+#inputSaliMin {
+  text-align:center;
+}
+
+.parrafoSalidaMins {
+  color:#C0C0C0;
+  font-style: italic;
+  font-size:10px;
+}
+
+.radioButtonsSalida {
+  margin-top:23px;
+}
+
+#labelActividad {
+  margin-bottom:20px;
+  margin-left:2px;
+}
+
+#labelDescripcion {
+  margin-bottom:20px;
+  margin-left:15px;
+}
+
+#labelNombreEncargado {
+  margin-bottom:20px;
+  margin-left:9px;
+}
+
+#generarReporte {
+  margin-bottom:150px;
+}
